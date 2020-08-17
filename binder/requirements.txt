@@ -1,3 +1,8 @@
 matplotlib
 numpy
 pandas
+ipywidgets
+plotly
+dash
+dash_bootstrap_components
+jupyter-dash
